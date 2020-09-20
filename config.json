@@ -1,13 +1,13 @@
 {
   "inbounds":[
     {
-      "port": 3000,
+      "port": 4000,
       "protocol": "vless",
       "settings": {
         "decryption": "none",
         "clients": [
           {
-            "id": "0fdf00fa-342e-4eb9-94d2-ea585737c60c",
+            "id": "6eef1d26-a0a5-4132-ad5c-219e8ff519b7",
             "level": 0
           }
         ]
